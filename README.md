@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://react-interactive-widget.vercel.app/" rel="noopener" target="_blank"><img width="150" src="https://mui.com/static/logo.svg" alt="MUI logo"></a></p>
 </p>
+![riw_logo](https://user-images.githubusercontent.com/61446585/146351801-0e27b8d1-0e50-4fe7-a585-3fa25d68fff4.png)
 
 <h1 align="center">React Interactive Widget</h1>
 
