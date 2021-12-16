@@ -57,14 +57,6 @@ const IntroSectionView = ({
     <CustomSection id={"Intro"}>
       <CustomSectionTitle title={"Intro"} />
       <Stack direction={"row"} flexWrap={"wrap"} justifyContent={"space-evenly"} sx={{ padding: "1rem" }}>
-        <CircleImage
-          src={"/images/intro/character_white.png"}
-          width={150}
-          height={150}
-          layout={"fixed"}
-          priority={true}
-          sx={{ backgroundColor: "#add8e6" }}
-        />
         <Typography variant="subtitle1" gutterBottom component="div">
           RIW 프로젝트란?
           <br />
